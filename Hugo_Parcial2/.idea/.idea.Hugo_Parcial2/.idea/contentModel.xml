@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\MZX\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\MZX\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Hugo_Parcial2.-2120548032.00" t="ExcludeRecursive" />
+    <e p="C:\Users\MZX\RiderProjects\Hugo_Parcial2" t="IncludeFlat">
+      <e p="Hugo_Parcial2" t="IncludeRecursive">
+        <e p="AddAddress.cs" t="Include" />
+        <e p="AddAddress.Designer.cs" t="Include" />
+        <e p="AddAddress.resx" t="Include" />
+        <e p="AddBusiness.cs" t="Include" />
+        <e p="AddBusiness.Designer.cs" t="Include" />
+        <e p="AddBusiness.resx" t="Include" />
+        <e p="AddOrder.cs" t="Include" />
+        <e p="AddOrder.Designer.cs" t="Include" />
+        <e p="AddOrder.resx" t="Include" />
+        <e p="AddProduct.cs" t="Include" />
+        <e p="AddProduct.Designer.cs" t="Include" />
+        <e p="AddProduct.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="BDconnection.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CreateUser.cs" t="Include" />
+        <e p="CreateUser.Designer.cs" t="Include" />
+        <e p="CreateUser.resx" t="Include" />
+        <e p="DatabaseDisconnectException.cs" t="Include" />
+        <e p="DeleteAddress.cs" t="Include" />
+        <e p="DeleteAddress.Designer.cs" t="Include" />
+        <e p="DeleteAddress.resx" t="Include" />
+        <e p="DeleteBusiness.cs" t="Include" />
+        <e p="DeleteBusiness.Designer.cs" t="Include" />
+        <e p="DeleteBusiness.resx" t="Include" />
+        <e p="DeleteOrder.cs" t="Include" />
+        <e p="DeleteOrder.Designer.cs" t="Include" />
+        <e p="DeleteOrder.resx" t="Include" />
+        <e p="DeleteProduct.cs" t="Include" />
+        <e p="DeleteProduct.Designer.cs" t="Include" />
+        <e p="DeleteProduct.resx" t="Include" />
+        <e p="DeleteUser.cs" t="Include" />
+        <e p="DeleteUser.Designer.cs" t="Include" />
+        <e p="DeleteUser.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="FormAdmon.cs" t="Include" />
+        <e p="FormAdmon.Designer.cs" t="Include" />
+        <e p="FormAdmon.resx" t="Include" />
+        <e p="FormNoAdmon.cs" t="Include" />
+        <e p="FormNoAdmon.Designer.cs" t="Include" />
+        <e p="FormNoAdmon.resx" t="Include" />
+        <e p="Hugo_Parcial2.csproj" t="IncludeRecursive" />
+        <e p="ModidyAddress.cs" t="Include" />
+        <e p="ModidyAddress.Designer.cs" t="Include" />
+        <e p="ModidyAddress.resx" t="Include" />
+        <e p="ModifyPassword.cs" t="Include" />
+        <e p="ModifyPassword.Designer.cs" t="Include" />
+        <e p="ModifyPassword.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OrderUserData.cs" t="Include" />
+        <e p="OrderUserData.Designer.cs" t="Include" />
+        <e p="OrderUserData.resx" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+      </e>
+      <e p="Hugo_Parcial2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
